@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d2380e6-ac5e-47f9-8559-84683c61bc54" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/hwong/Downloads/RepositorioDec-DevOps-main/1_Dev/AppDatabase" value="3LhFhcB0AxVibaYsV9F554RBCKQ" />
+      <entry key="_C:/Users/hwong/Downloads/RepositorioDec-DevOps-main/1_Dev/Practica01_DevOps/03_Operaciones/AppDatabase" value="3LmcZmBwFsAY3BImSOT59Iwin6Y" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="13" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000712270263" />
+      <entry key="S5" value="1.0013837509281196" />
+      <entry key="S10" value="1.0371988027780399" />
+      <entry key="S30" value="1.333817925725592" />
+      <entry key="S60" value="1.5777697860961508" />
+      <entry key="M2" value="1.76011169317157" />
+      <entry key="M5" value="1.896088627104079" />
+      <entry key="M10" value="1.9466195788721459" />
+      <entry key="M15" value="1.9640886909211128" />
+      <entry key="M30" value="1.9818801815502303" />
+      <entry key="H1" value="1.9908986737049505" />
+      <entry key="H2" value="1.995438935196404" />
+      <entry key="H4" value="1.997716861236896" />
+      <entry key="D1" value="1.9996191143722983" />
+      <entry key="W1" value="1.9999455788833032" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8350879194283694" />
+      <entry key="MS500" value="0.9645981845841383" />
+      <entry key="S2" value="0.9910296332674676" />
+      <entry key="S5" value="0.9977763152508117" />
+      <entry key="S10" value="1.0352695449839404" />
+      <entry key="S30" value="1.3328319596492808" />
+      <entry key="S60" value="1.5771358308746772" />
+      <entry key="M2" value="1.7597420253919132" />
+      <entry key="M5" value="1.895925041914526" />
+      <entry key="M10" value="1.946534865633554" />
+      <entry key="M15" value="1.9640315422868562" />
+      <entry key="M30" value="1.9818512644486463" />
+      <entry key="H1" value="1.990884128275124" />
+      <entry key="H2" value="1.9954316406122825" />
+      <entry key="H4" value="1.9977132084587519" />
+      <entry key="D1" value="1.9996185048123862" />
+      <entry key="W1" value="1.9999454917845958" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LhFhagoGb7tNkuHdgMSE4bDtO0" />
+  <component name="ProjectSessionTemplates">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d2380e6-ac5e-47f9-8559-84683c61bc54" name="Changes" comment="" />
+      <created>1793898512570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793898512570</updated>
+      <workItem from="1793898513781" duration="144000" />
+      <workItem from="1794062742373" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

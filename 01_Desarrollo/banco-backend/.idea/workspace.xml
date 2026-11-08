@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45d92936-2b0c-4ee2-825a-1ed0014b1b19" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/hwong/Downloads/RepositorioDec-DevOps-main/1_Dev/Practica01_DevOps/banco-backend" value="3Lma6GRya6dcX2970HhsnYL5Qje" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="33" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7955933660720724" />
+      <entry key="MS500" value="3.6319431774464106" />
+      <entry key="S2" value="6.216914017408957" />
+      <entry key="S5" value="7.20734886466769" />
+      <entry key="S10" value="8.3568527773972" />
+      <entry key="S30" value="25.608648102965727" />
+      <entry key="S60" value="48.40217749858737" />
+      <entry key="M2" value="76.89975019579644" />
+      <entry key="M5" value="136.9306087663075" />
+      <entry key="M10" value="196.52684549082107" />
+      <entry key="M15" value="228.92245291127222" />
+      <entry key="M30" value="271.70598668455443" />
+      <entry key="H1" value="298.2182317051034" />
+      <entry key="H2" value="313.0284964483055" />
+      <entry key="H4" value="320.8627361833453" />
+      <entry key="D1" value="327.62218181240564" />
+      <entry key="W1" value="328.80263213624653" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6896771126031331" />
+      <entry key="MS500" value="3.587484280690979" />
+      <entry key="S2" value="6.197483661105438" />
+      <entry key="S5" value="7.198275649997052" />
+      <entry key="S10" value="8.351503115495895" />
+      <entry key="S30" value="25.60269234500476" />
+      <entry key="S60" value="48.39642607103926" />
+      <entry key="M2" value="76.8948642209678" />
+      <entry key="M5" value="136.9260300969495" />
+      <entry key="M10" value="196.52288471116202" />
+      <entry key="M15" value="228.91915116993766" />
+      <entry key="M30" value="271.7038786629374" />
+      <entry key="H1" value="298.2170313600279" />
+      <entry key="H2" value="313.02785473913826" />
+      <entry key="H4" value="320.8624042545257" />
+      <entry key="D1" value="327.622124890644" />
+      <entry key="W1" value="328.8026239645389" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Lma5wVEX2UqcKGFMc1eFZvrBtM" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ClienteServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ClienteServiceTest">
+    <configuration name="ClienteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="banco-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hwongu.unit.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hwongu.unit.service" />
+      <option name="MAIN_CLASS_NAME" value="com.hwongu.unit.service.ClienteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BancoBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="banco-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hwongu.BancoBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ClienteServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.27258.48" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.27258.48" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45d92936-2b0c-4ee2-825a-1ed0014b1b19" name="Changes" comment="" />
+      <created>1794061518692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794061518692</updated>
+      <workItem from="1794061521311" duration="1351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
